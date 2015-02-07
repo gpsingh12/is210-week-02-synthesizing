@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Docstring added"""
 
-CHARLIE = "Brown" 
+CHARLIE = "CHOCLATE Factory"
 VIOLET = "Gray"
 PATRICIA = "Reichardt"
 LINUS = "van Pelt"
