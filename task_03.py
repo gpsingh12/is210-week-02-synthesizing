@@ -1,7 +1,8 @@
-    #!/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """Docstring added"""
-CHARLIE = "Chocolate Factory" 
+CHARLIE = "Chocolate" 
 VIOLET = "Gray"
 PATRICIA = "Reichardt"
 LINUS = "van Pelt"
+
